@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 800px;
+    height: 768px;
+    background-color:antiquewhite;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sim{
+    width: 200px;
+    height: 60px;
+    background-color: darkslategrey
+    ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.nao{
+    width: 800px;
+    height: 75px;
+    background-color: antiquewhite;
+}
+.que{
+    width: 650px;
+    height: 300px;
+    background-color: darkslategrey;
+}
+.isso{
+    width: 200px;
+    height: 150px;
+    background-color: antiquewhite;
+    
+}
+.hj{
+    width: 60px;
+    height: 60px;
+    background-color: darkslategrey;
+    margin-left: 30px;
+}
+.texto{
+    font-family: 'Alegreya', serif;
+font-family: 'Poltawski Nowy', serif;
+}

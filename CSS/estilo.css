@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 800px;
+    height: 768px;
+    background-color: aquamarine;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.gaby{
+    width: 200px;
+    height: 60px;
+    background-color:darksalmon;
+    display: flex;
+justify-content: center;
+align-items: center;}
+.castilho{
+    width: 200px;
+    height: 60px;
+    background-color: darksalmon;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.fotunato{
+    width: 200px;
+    height: 60px;
+    background-color:darksalmon;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.dell{
+    width: 200px;
+    height: 60px;
+    background-color:darksalmon;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.lula{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(255, 254, 254);
+}
+.bolsonaro{
+    width: 800px;
+    height: 300px;
+    background-color: darksalmon;
+}
+.pt{
+    width: 800px;
+    height: 308px;
+    background-color: rgb(255, 254, 254);
+}
+.fazol{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -90px ;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.agorapula{
+    width: 60px;
+    height: 60px;
+    background-color: crimson;
+}
+.pula{
+    width: 60px;
+    height: 60px;
+    background-color: darkorange;
+}
+.teclado{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+}
+.img1{
+    width: 80%;
+}
+.texto{
+    width: 200px;
+    height: 100px;
+    margin-top: -250px;
+    margin-left: 150px;
+    background-color: darksalmon;
+    font-family: 'Architects Daughter', cursive;
+}
+.tecto2{
+    font-family: 'Architects Daughter', cursive;
+}

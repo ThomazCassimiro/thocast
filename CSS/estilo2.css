@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 800px;
+    height: 768px;
+    background-color: antiquewhite;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.oi{
+    width: 200px;
+    height: 60px;
+    background-color: darkolivegreen;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.sim{
+    width: 800px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.nao{
+    width: 185px;
+    height: 300px;
+    background-color: darkolivegreen;
+    margin-left: 20px;
+    margin-left: 10px;
+}
+.cel{
+    width: 150px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin-left: 30px;
+    margin-left: 40px;
+}
+.yes{
+    width: 60px;
+    height: 60px;
+    background-color: antiquewhite;
+    margin-left: 30px;
+}
+.texto{
+    font-family: 'Poltawski Nowy', serif;
+}
+.texto2{
+    font-family: 'Poltawski Nowy', serif;
+}
